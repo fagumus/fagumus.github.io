@@ -1,0 +1,72 @@
+{
+  "journals": [
+    {
+      "text": "Gümüş, F. (2026). “NoisyBox: a dataset for analyzing structured spatial annotation noise in bounding boxes.” PeerJ Computer Science. Accepted; scheduled for publication on 22 October 2026. [DOI pending publication.]",
+      "url": "",
+      "resources": [
+        {
+          "label": "Dataset (Zenodo)",
+          "url": "https://doi.org/10.5281/zenodo.13142997"
+        },
+        {
+          "label": "Code & models (Zenodo)",
+          "url": "https://doi.org/10.5281/zenodo.15207393"
+        }
+      ]
+    },
+    {
+      "text": "Aksu Demir, İ. E., & Gümüş, F. (2026). “Source-Rate Representations and Attention Autoencoders for Leakage-Safe Zero-Day Sybil Detection in UAV Networks.” Electronics, 15(17), 3966",
+      "url": "https://doi.org/10.3390/electronics15173966"
+    },
+    {
+      "text": "Gümüş, F., & Amasyalı, M. F. (2025). “Robustness of emotion recognition in dialogue systems: A study on third-party API integrations and black-box attacks.” Speech Communication, 175",
+      "url": "https://doi.org/10.1016/j.specom.2025.103316"
+    },
+    {
+      "text": "Gümüş, F., & Amasyalı, M. F. (2022). “Exploiting Natural Language Services: A Polarity Based Black-box Attack.” Frontiers of Computer Science, 16(5)",
+      "url": "https://doi.org/10.1007/s11704-021-0198-y"
+    },
+    {
+      "text": "Gümüş, F., & Yıltaş Kaplan, D. (2020). “Congestion Prediction System With Artificial Neural Networks.” International Journal of Interdisciplinary Telecommunications and Networking, 12(3), 28–43",
+      "url": "https://doi.org/10.4018/IJITN.2020070103"
+    },
+    {
+      "text": "Karaman, F., & Gümüş, F. (2025). “Exploring the Impact of Model Capacity and Parameter Tuning on 3D Semantic Segmentation.” Turkish Journal of Science and Technology, 20",
+      "url": "https://doi.org/10.55525/tjst.1637713"
+    },
+    {
+      "text": "Gümüş, F., & Saylam, R. (2025). “Optimizing EEG-Based Cognitive State Classification with Feature-CNN in Aviation: A Comparative Analysis.” Journal of Aeronautics Astronautics and Aviation, 18(1), 145–161",
+      "url": "https://jast.msu.edu.tr/index.php/JAST/article/view/615"
+    },
+    {
+      "text": "Gümüş, F., & Eyüpoğlu, C. (2024). “An Image Processing-Based Approach for Reading Needle-Type Instruments on Aircraft.” ELECTRICA, 24(2), 425–435",
+      "url": "https://doi.org/10.5152/electrica.2024.23190"
+    },
+    {
+      "text": "Gümüş, F., Ata, O., & Balık, H. H. (2018). “Davranışsal Biyometrinin 5 Yılı: Kimlik Doğrulama ve Anomali Tespit Uygulamaları” (Five Years of Behavioral Biometrics: Authentication and Anomaly Detection Applications). Fırat Üniversitesi Mühendislik Bilimleri Dergisi (Fırat University Journal of Engineering Sciences), 30(1), 345–364",
+      "url": "https://dergipark.org.tr/tr/pub/fumbd/article/400561"
+    }
+  ],
+  "conferences": [
+    {
+      "text": "Karaman, F., Gümüş, F., & Eyüpoğlu, C. (2026). “Cross-Lingual Detection of Synthetic Speech Using Acoustic and Deep Features.” International Informatics and Software Engineering Conference (IISEC)",
+      "url": "https://doi.org/10.1109/IISEC69317.2026.11418501"
+    },
+    {
+      "text": "Gümüş, F. (2024). “Reliability Challenges in Crowdsourced Bounding-Box Data for Computer Vision.” ICAIAME 2024",
+      "url": "https://doi.org/10.1007/978-3-031-92552-8_4"
+    },
+    {
+      "text": "Çakı, B., & Gümüş, F. (2026). “Multimodal Remote Sensing Image Segmentation with Domain Adaptation: A Comparative Review.” RAST 2026",
+      "url": "https://doi.org/10.1109/RAST69551.2026.11672343"
+    },
+    {
+      "text": "Yiğit, G., Gümüş, F., & Yeğin, M. N. (2026). “The Effects of Prompting and Fine-Tuning in Medical Text Simplification: Evaluation of Various Models.” 10th International Artificial Intelligence and Data Processing Symposium",
+      "url": ""
+    },
+    {
+      "text": "Gümüş, F., & Eyüpoğlu, C. (2023). “A Survey of Prominent Image Processing Research on Needle-type Instrument Reading on Aircraft.” RAST 2023",
+      "url": "https://doi.org/10.1109/RAST57548.2023.10197881"
+    }
+  ]
+}
