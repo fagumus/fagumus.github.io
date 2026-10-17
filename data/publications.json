@@ -49,24 +49,44 @@
   ],
   "conferences": [
     {
-      "text": "Karaman, F., Gümüş, F., & Eyüpoğlu, C. (2026). “Cross-Lingual Detection of Synthetic Speech Using Acoustic and Deep Features.” International Informatics and Software Engineering Conference (IISEC)",
-      "url": "https://doi.org/10.1109/IISEC69317.2026.11418501"
-    },
-    {
-      "text": "Gümüş, F. (2024). “Reliability Challenges in Crowdsourced Bounding-Box Data for Computer Vision.” ICAIAME 2024",
-      "url": "https://doi.org/10.1007/978-3-031-92552-8_4"
-    },
-    {
-      "text": "Çakı, B., & Gümüş, F. (2026). “Multimodal Remote Sensing Image Segmentation with Domain Adaptation: A Comparative Review.” RAST 2026",
-      "url": "https://doi.org/10.1109/RAST69551.2026.11672343"
-    },
-    {
-      "text": "Yiğit, G., Gümüş, F., & Yeğin, M. N. (2026). “The Effects of Prompting and Fine-Tuning in Medical Text Simplification: Evaluation of Various Models.” 10th International Artificial Intelligence and Data Processing Symposium",
+      "text": "Yiğit, G., Gümüş, F., & Yeğin, M. N. (2026). “The effects of prompting and fine-tuning in medical text simplification: Evaluation of various models.” 10th International Artificial Intelligence and Data Processing Symposium (ICAISF 2026).",
       "url": ""
     },
     {
-      "text": "Gümüş, F., & Eyüpoğlu, C. (2023). “A Survey of Prominent Image Processing Research on Needle-type Instrument Reading on Aircraft.” RAST 2023",
+      "text": "Çakı, B., & Gümüş, F. (2026). “Multimodal Remote Sensing Image Segmentation with Domain Adaptation: A Comparative Review.” 11th International Conference on Recent Advances in Air and Space Technologies (RAST).",
+      "url": "https://doi.org/10.1109/RAST69551.2026.11672343"
+    },
+    {
+      "text": "Aksu Demir, İ. E., & Gümüş, F. (2026). “Evaluating Incremental Deep Learning for Cyberattack Detection in UAV Communication Networks.” 11th International Conference on Recent Advances in Air and Space Technologies (RAST).",
+      "url": "https://doi.org/10.1109/RAST69551.2026.11672533"
+    },
+    {
+      "text": "Karaman, F., Gümüş, F., & Eyüpoğlu, C. (2026). “Cross-Lingual Detection of Synthetic Speech Using Acoustic and Deep Features.” International Informatics and Software Engineering Conference (IISEC).",
+      "url": "https://doi.org/10.1109/IISEC69317.2026.11418501"
+    },
+    {
+      "text": "Durmuşkaya, M. E., Kabasakaloğlu, M. U., Çetiner, E. K., & Gümüş, F. (2025). “Watermarking and Steganography in AI-Generated Text: Character, Syntactic, Semantic, and Hidden Message Embedding Approaches.” International Conference of Innovative Computer Engineering.",
+      "url": ""
+    },
+    {
+      "text": "Gümüş, F. (2024). “Reliability Challenges in Crowdsourced Bounding-Box Data for Computer Vision.” International Conference on Artificial Intelligence and Applied Mathematics in Engineering (ICAIAME), pp. 38–54.",
+      "url": "https://doi.org/10.1007/978-3-031-92552-8_4"
+    },
+    {
+      "text": "Gümüş, F., & Eyüpoğlu, C. (2023). “A Survey of Prominent Image Processing Research on Needle-type Instrument Reading on Aircraft.” 10th International Conference on Recent Advances in Air and Space Technologies (RAST).",
       "url": "https://doi.org/10.1109/RAST57548.2023.10197881"
+    },
+    {
+      "text": "Gümüş, F., & Saylam, R. (2023). “Prevention of Aviation Accidents with Prediction of Cognitive States.” 10th International Conference on Recent Advances in Air and Space Technologies (RAST).",
+      "url": "https://doi.org/10.1109/RAST57548.2023.10197937"
+    },
+    {
+      "text": "Dura, O., İmray, M., & Gümüş, F. (2021). “An Empirical Framework for Fake News Generation.” International Conference on Cyber Security and Digital Forensics (ICONSEC 2021). Abstract/oral presentation.",
+      "url": ""
+    },
+    {
+      "text": "Gümüş, F., Yankayış, M., & Karabiber, F. (2016). “Adli Uygulamalar için i-vector ve GMM Yönelimli Konuşmacı Doğrulama Sistemlerinin Değerlendirilmesi” (Evaluation of i-vector- and GMM-Based Speaker Verification Systems for Forensic Applications). 24th IEEE Signal Processing and Communications Applications Conference (SIU).",
+      "url": ""
     }
   ]
 }
