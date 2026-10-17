@@ -1,7 +1,7 @@
 {
   "journals": [
     {
-      "text": "Gümüş, F. (2026). “NoisyBox: a dataset for analyzing structured spatial annotation noise in bounding boxes.” PeerJ Computer Science. Accepted; scheduled for publication on 22 October 2026. [DOI pending publication.]",
+      "text": "Gümüş, F. (2026). “NoisyBox: a dataset for analyzing structured spatial annotation noise in bounding boxes.” PeerJ Computer Science.",
       "url": "",
       "resources": [
         {
@@ -12,7 +12,8 @@
           "label": "Code & models (Zenodo)",
           "url": "https://doi.org/10.5281/zenodo.15207393"
         }
-      ]
+      ],
+      "status": "Accepted; scheduled for publication on 22 October 2026"
     },
     {
       "text": "Aksu Demir, İ. E., & Gümüş, F. (2026). “Source-Rate Representations and Attention Autoencoders for Leakage-Safe Zero-Day Sybil Detection in UAV Networks.” Electronics, 15(17), 3966",
